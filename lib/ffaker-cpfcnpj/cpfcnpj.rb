@@ -2,7 +2,7 @@ require 'brazilian-rails'
 require 'ffaker-cpfcnpj/brazilian-rails/cpfcnpj'
 
 module Faker
-  module CPFCNPJ
+  module CpfCnpj
     extend ModuleUtils
     extend self
 

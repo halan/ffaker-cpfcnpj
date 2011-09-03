@@ -1,9 +1,13 @@
 = ffaker-cpfcnpj
 
+Installation
+
+  gem install ffaker-cpfcnpj
+
 Quick start
   
-  Faker::CPFCNPJ.cpf # generate a valid cpf
-  Faker::CPFCNPJ.cnpj # generate a valid cnpj
+  Faker::CpfCnpj.cpf # generate a valid cpf
+  Faker::CpfCnpj.cnpj # generate a valid cnpj
 
 
 == Contributing to ffaker-cpfcnpj
