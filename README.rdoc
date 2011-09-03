@@ -1,6 +1,10 @@
 = ffaker-cpfcnpj
 
-Description goes here.
+Quick start
+  
+  Faker::CPFCNPJ.cpf # generate a valid cpf
+  Faker::CPFCNPJ.cnpj # generate a valid cnpj
+
 
 == Contributing to ffaker-cpfcnpj
  

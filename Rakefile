@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "ffaker-cpfcnpj"
   gem.homepage = "http://github.com/halan/ffaker-cpfcnpj"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Gem to extend FFaker to generate valids brazilian CPF or CNPJ}
+  gem.description = %Q{Gem to extend FFaker to generate valids brazilian CPF or CNPJ}
   gem.email = "halan.pinheiro@gmail.com"
   gem.authors = ["Halan Pinheiro"]
   # dependencies defined in Gemfile
