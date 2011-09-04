@@ -1,3 +1,3 @@
 module Faker
-  autoload :CPFCNPJ, 'ffaker-cpfcnpj/cpfcnpj'
+  autoload :CpfCnpj, 'ffaker-cpfcnpj/cpfcnpj'
 end
